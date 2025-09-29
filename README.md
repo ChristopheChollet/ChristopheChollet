@@ -1,12 +1,12 @@
-## Hi there 👋
+## Hi there 🐺
 
-# Christophe Chollet | Loup-Gourou Blockchain 🐺💻
+# Christophe Chollet | Blockchain 💻
 
 **Développeur Blockchain en formation @Alyra** | **Solidity, Web3, Smart Contracts**
 *Transforme les idées en code, et l’énergie en tokens.*
 
 ## 📌 Projets en cours
-- **[EnergyMarket]** : Plateforme d’échange d’énergie P2P via la blockchain. *Objectif : Déployer un MVP d’ici décembre 2025.*
+- **[EnergyMarket]** : Plateforme d’échange d’énergie P2P via la blockchain. *Objectif : Déployer un MVP.*
 - **[Learning-Solidity]** : Mes exercices et projets de formation (semaine par semaine).
 
 ## 🛠 Compétences
