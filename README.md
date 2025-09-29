@@ -1,15 +1,25 @@
 ## Hi there 👋
 
-# Christophe Chollet
-👨💻 Dev Blockchain @Alyra | Solidity, Web3
+# Christophe Chollet | Loup-Gourou Blockchain 🐺💻
 
-## 📂 Projets
-- [EnergyMarket] : Plateforme d'échange d'énergie P2P
-- [Learning-Solidity] : Exercices et projets de formation
+**Développeur Blockchain en formation @Alyra** | **Solidity, Web3, Smart Contracts**
+*Transforme les idées en code, et l’énergie en tokens.*
+
+## 📌 Projets en cours
+- **[EnergyMarket]** : Plateforme d’échange d’énergie P2P via la blockchain. *Objectif : Déployer un MVP d’ici décembre 2025.*
+- **[Learning-Solidity]** : Mes exercices et projets de formation (semaine par semaine).
 
 ## 🛠 Compétences
-Solidity | Smart Contracts | React | Chainlink
+- **Langages** : Solidity, JavaScript
+- **Outils** : Remix, Hardhat, Chainlink, React
+- **Blockchain** : Smart Contracts, ERC-20/ERC-721, DeFi
+
+## 🌍 Philosophies
+*"Un loup-gourou, c’est un chef de meute qui guide avec audace. En blockchain, c’est la même chose : on code, on déploie, et on inspire."*
 
 ## 📫 Contact
-c.chollet45100@gmail.com
+- **Email** : c.chollet45100@gmail.com
+
+*"La blockchain n’est pas qu’une tech, c’est une révolution. Et je veux en être un acteur."*
+
 
