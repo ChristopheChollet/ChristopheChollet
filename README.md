@@ -1,6 +1,6 @@
 # Christophe Chollet · Web3 & énergie / carbone
 
-Intégration **produit** (front, contrats **Solidity**, déploiement **Hardhat**) sur **EVM**, avec un focus **énergie, attributs et preuve carbone** — pas seulement la finance crypto.
+Intégration **produit** (front, contrats **Solidity**, déploiement **Hardhat**) sur **EVM**, avec un focus **énergie, attributs et preuve carbone** — 
 
 **Formation** : parcours **@Alyra** (Solidity, Web3). **Flagship** : [**GreenChain Common**](https://github.com/ChristopheChollet/GreenChain-Common) — dApp modulaire (parcours, KPI on-chain, registre REC / carbone selon modules).
 
