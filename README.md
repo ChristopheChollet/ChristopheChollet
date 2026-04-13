@@ -1,23 +1,19 @@
-## Hi there 🐺
+# Christophe Chollet · Web3 & énergie / carbone
 
-# Christophe Chollet | Blockchain 💻
+Intégration **produit** (front, contrats **Solidity**, déploiement **Hardhat**) sur **EVM**, avec un focus **énergie, attributs et preuve carbone** — pas seulement la finance crypto.
 
-**Développeur Blockchain en formation @Alyra** | **Solidity, Web3, Smart Contracts**
-*Transforme les idées en code, et l’énergie en tokens.*
+**Formation** : parcours **@Alyra** (Solidity, Web3). **Flagship** : [**GreenChain Common**](https://github.com/ChristopheChollet/GreenChain-Common) — dApp modulaire (parcours, KPI on-chain, registre REC / carbone selon modules).
 
-## 📌 Projets en cours
-- **[EnergyMarket]** : Plateforme d’échange d’énergie P2P via la blockchain. *Objectif : Déployer un MVP.*
-- **[Learning-Solidity]** : Mes exercices et projets de formation (semaine par semaine).
+**Autres dépôts** : repo unique **Alyra — vote** (P1→P3), **EverVault** (projet final formation). Voir les dépôts **épinglés** ci-dessous.
 
-## 🛠 Compétences
-- **Langages** : Solidity, JavaScript
-- **Outils** : Remix, Hardhat, Chainlink, React
-- **Blockchain** : Smart Contracts, ERC-20/ERC-721, DeFi
+## Compétences
+- **On-chain** : Solidity, contrats ERC-20 / patterns classiques, tests Hardhat  
+- **Off-chain** : TypeScript, intégration wallet / RPC, APIs  
+- **Thème métier** : traçabilité énergie / carbone, limites (oracles, MVP)
 
-
-## 📫 Contact
-- **Email** : c.chollet45100@gmail.com
-
+## Contact
+- **Email** : hello@christophechollet.dev 
+- **LinkedIn** : www.linkedin.com/in/christophe-chollet-1988-
 
 
 
