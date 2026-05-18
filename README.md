@@ -7,14 +7,14 @@ Formation **Blockchain & IA — Alyra** : je peux ajouter une **couche blockchai
 
 ## Projets
 
-- **GreenOps Console — SaaS énergie & climat** (`<TODO: lien GitHub>` ou ton dépôt réel quand disponible)
+- **GreenOps Console — SaaS énergie & climat** (GitHub - ChristopheChollet/GreenOps)
   Console Web orientée créneaux de flexibilité / registres pédagogiques type **REC**, dashboards et activité récente.  
   Stack : **Next.js · TypeScript · Supabase (Auth, Postgres, RLS) · Vercel**.
 
 - **GreenChain Common — dApp modulaire (PoC)** — [ChristopheChollet/GreenChain-Common](https://github.com/ChristopheChollet/GreenChain-Common)
   Chaîne fonctionnelle (vault · marché de flexibilité · registre de certificats pédagogique · gouvernance) pensée pour être **lisible comme produit**.  
   Focus : **transactions testnet**, lecture d’état, agrégations d’événements/KPI utilisables depuis l’UI, patterns de sécu classiques Solidity.  
-  Stack : **Next.js · TypeScript · Hardhat · Solidity · wagmi/viem**.
+  Stack : **Next.js · TypeScript · Hardhat · Solidity · wagmi/viem · RainbowKit**.
 
 - **Portfolio** — [christophechollet.dev](https://christophechollet.dev/)
 - **LinkedIn** — [christophe‑chollet‑1988](https://www.linkedin.com/in/christophe-chollet-1988-/)
