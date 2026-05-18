@@ -1,19 +1,33 @@
 # Christophe Chollet
 
-Développeur **full-stack web3** formé chez **Alyra**, spécialisé dans les cas d’usage **énergie & carbone**.
+Développeur **full‑stack**, basé à **Toulouse**, disponible en **remote France & Europe** (avec déplacements possibles selon besoin).
 
-Je construis des **MVP web3** démontrables et lisibles, avec une attention particulière à l’**UX transactionnelle** : connexion wallet, lectures et écritures sur les contrats, confirmations, erreurs et états de chargement, ainsi que les **KPI on-chain**.
+Je conçois des **produits web orientés données** pour **l’énergie et le climat** : dashboards, automatisation et UX produit sérieuse.  
+Formation **Blockchain & IA — Alyra** : je peux ajouter une **couche blockchain expérimentale** (**Solidity / Hardhat / wagmi / viem**) lorsqu’elle apporte une **valeur vérifiable** (traçabilité, registres/market‑like exploratoires, actifs/tokenisation **avec cas d’usage**) — sinon je reste sur une stack Web **standard**.
 
-### Projets
+## Projets
 
-- **GreenChain Common** — [github.com/ChristopheChollet/GreenChain-Common](https://github.com/ChristopheChollet/GreenChain-Common) · dApp modulaire (parcours utilisateur, KPI on-chain, vault, market, registry, gouvernance) : plusieurs modules reliés dans une interface cohérente, documentée et présentable.
-- **Formation Alyra** — Solidity & Web3 · vote on-chain, EverVault (projet final).
-- **Site** — [christophechollet.dev](https://christophechollet.dev/) · [linkedin.com/in/christophe-chollet-1988-](https://www.linkedin.com/in/christophe-chollet-1988-/)
+- **GreenOps Console — SaaS énergie & climat** (`<TODO: lien GitHub>` ou ton dépôt réel quand disponible)
+  Console Web orientée créneaux de flexibilité / registres pédagogiques type **REC**, dashboards et activité récente.  
+  Stack : **Next.js · TypeScript · Supabase (Auth, Postgres, RLS) · Vercel**.
 
-### Stack
+- **GreenChain Common — dApp modulaire (PoC)** — [ChristopheChollet/GreenChain-Common](https://github.com/ChristopheChollet/GreenChain-Common)
+  Chaîne fonctionnelle (vault · marché de flexibilité · registre de certificats pédagogique · gouvernance) pensée pour être **lisible comme produit**.  
+  Focus : **transactions testnet**, lecture d’état, agrégations d’événements/KPI utilisables depuis l’UI, patterns de sécu classiques Solidity.  
+  Stack : **Next.js · TypeScript · Hardhat · Solidity · wagmi/viem**.
 
-Next.js, TypeScript, Solidity, Hardhat, wagmi, viem · ERC-20, wallet & RPC, APIs · chaînes EVM (testnet, mainnet ou L2 selon le besoin).
+- **Portfolio** — [christophechollet.dev](https://christophechollet.dev/)
+- **LinkedIn** — [christophe‑chollet‑1988](https://www.linkedin.com/in/christophe-chollet-1988-/)
 
-### Contact
+### Formation
 
-[hello@christophechollet.dev](mailto:hello@christophechollet.dev) · [linkedin.com/in/christophe-chollet-1988-](https://www.linkedin.com/in/christophe-chollet-1988-/)
+- **Alyra — école Blockchain & IA** : parcours Web3 avec travaux Solidity (ex. projet type vault/market/registry/gouvernance), culture tests & patterns de développement.
+
+## Stack principale
+
+- **Web / SaaS** : Next.js, TypeScript, Supabase (Auth, Postgres, RLS), Vercel
+- **Web3 (côté PoC/intégration)** : Solidity, Hardhat, wagmi/viem, RainbowKit · **EVM** (testnets / environnements compatibles avec le projet)
+
+## Contact
+
+[hello@christophechollet.dev](mailto:hello@christophechollet.dev) · [LinkedIn](https://www.linkedin.com/in/christophe-chollet-1988-/) · [Site](https://christophechollet.dev/)
