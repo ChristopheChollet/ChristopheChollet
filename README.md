@@ -1,32 +1,35 @@
 # Christophe Chollet
 
-Développeur **full‑stack**, basé à **Toulouse**, disponible en **remote France & Europe** (avec déplacements possibles selon besoin).
+Développeur **full-stack**, basé à **Toulouse**, disponible en **remote France & Europe** (déplacements possibles selon besoin).
 
-Je conçois des **produits web orientés données** pour **l’énergie et le climat** : dashboards, automatisation et UX produit sérieuse.  
-Formation **Blockchain & IA — Alyra** : je peux ajouter une **couche blockchain expérimentale** (**Solidity / Hardhat / wagmi / viem**) lorsqu’elle apporte une **valeur vérifiable** (traçabilité, registres/market‑like exploratoires, actifs/tokenisation **avec cas d’usage**) — sinon je reste sur une stack Web **standard**.
+Je conçois des **produits web orientés données** pour **l'énergie et le climat** : SaaS métier, pipelines d'ingestion, dashboards et intégration bout en bout.
 
-## Projets
+**Meridian** est ma plateforme de démonstration — **trois applications en production**, une seule histoire produit : de la donnée réseau à l'action métier (et à la facture SaaS).
 
-- **GreenOps Console — SaaS énergie & climat** (GitHub - ChristopheChollet/GreenOps)
-  Console Web orientée créneaux de flexibilité / registres pédagogiques type **REC**, dashboards et activité récente.  
-  Stack : **Next.js · TypeScript · Supabase (Auth, Postgres, RLS) · Vercel**.
+> *De la donnée réseau à la facture client — niche énergie & climat*
 
-- **GreenChain Common — dApp modulaire (PoC)** — [ChristopheChollet/GreenChain-Common](https://github.com/ChristopheChollet/GreenChain-Common)
-  Chaîne fonctionnelle (vault · marché de flexibilité · registre de certificats pédagogique · gouvernance) pensée pour être **lisible comme produit**.  
-  Focus : **transactions testnet**, lecture d’état, agrégations d’événements/KPI utilisables depuis l’UI, patterns de sécu classiques Solidity.  
-  Stack : **Next.js · TypeScript · Hardhat · Solidity · wagmi/viem · RainbowKit**.
+## Meridian — 3 applications
 
-- **Portfolio** — [christophechollet.dev](https://christophechollet.dev/)
-- **LinkedIn** — [christophe‑chollet‑1988](https://www.linkedin.com/in/christophe-chollet-1988-/)
+| Pilier | App | Rôle |
+|--------|-----|------|
+| **Data** | [GridPulse](https://github.com/ChristopheChollet/GridPulse) | Ingestion RTE + Electricity Maps, KPIs carbone, créneaux verts, prévision baseline |
+| **Décision** | [FlexSlot](https://github.com/ChristopheChollet/FlexSlot) | Recommandations horaires, arbitrage, création de slot en un clic |
+| **Action** | [GreenOps](https://github.com/ChristopheChollet/GreenOps) | Console B2B multi-org : flex, REC, équipe, alertes consolidées, **facturation Stripe** |
 
-### Formation
-
-- **Alyra — école Blockchain & IA** : parcours Web3 avec travaux Solidity (ex. projet type vault/market/registry/gouvernance), culture tests & patterns de développement.
+**Parcours démo** : [GridPulse](https://grid-pulse-steel.vercel.app) → [FlexSlot](https://flex-slot.vercel.app) → [GreenOps](https://green-ops-five.vercel.app)  
+**Portfolio** : [christophechollet.dev](https://christophechollet.dev) · **LinkedIn** : [christophe-chollet-1988](https://www.linkedin.com/in/christophe-chollet-1988-/)
 
 ## Stack principale
 
-- **Web / SaaS** : Next.js, TypeScript, Supabase (Auth, Postgres, RLS), Vercel
-- **Web3 (côté PoC/intégration)** : Solidity, Hardhat, wagmi/viem, RainbowKit · **EVM** (testnets / environnements compatibles avec le projet)
+- **Web / SaaS** : Next.js, TypeScript, Tailwind, Supabase (Auth, Postgres, RLS), Vercel
+- **Data / API** : Python, FastAPI, pandas, pipelines d'ingestion, GitHub Actions, Railway
+- **Billing** : Stripe (Checkout, webhooks) — backend [VoltFlow](https://github.com/ChristopheChollet/VoltFlow), UI dans GreenOps `/billing`
+- **Complément formation** : Solidity, Hardhat (projet Alyra — non mis en avant portfolio)
+
+## Formation
+
+Certifié **Alyra — développeur IA & blockchain** (RS6515) : socle **fullstack** (Next.js, TypeScript, Git, déploiement), module blockchain, usage d'**outils IA** au quotidien.  
+Portfolio orienté **énergie/climat en Web2** après certification — employabilité ESN & missions fullstack.
 
 ## Contact
 
