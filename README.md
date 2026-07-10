@@ -6,7 +6,7 @@ Je conçois des **produits web orientés données** pour **l'énergie et le clim
 
 **Meridian** est ma plateforme de démonstration — **trois applications en production**, une seule histoire produit : de la donnée réseau à l'action métier (et à la facture SaaS).
 
-> *De la donnée réseau à la facture client — niche énergie & climat*
+> *De la donnée réseau à la facture client — climate tech*
 
 ## Meridian — 3 applications
 
