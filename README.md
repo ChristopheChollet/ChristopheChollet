@@ -12,11 +12,12 @@ Je conçois des **produits web orientés données** pour **l'énergie et le clim
 
 | Pilier | App | Rôle |
 |--------|-----|------|
-| **Data** | [GridPulse](https://github.com/ChristopheChollet/GridPulse) | Ingestion RTE + Electricity Maps, KPIs carbone, créneaux verts, prévision baseline |
+| **Data** | [GridPulse](https://github.com/ChristopheChollet/GridPulse) | Ingestion RTE + Electricity Maps, KPIs carbone, créneaux verts, prévision ML (ridge) + baseline, page `/status` pipeline |
 | **Décision** | [FlexSlot](https://github.com/ChristopheChollet/FlexSlot) | Recommandations horaires, arbitrage, création de slot en un clic |
-| **Action** | [GreenOps](https://github.com/ChristopheChollet/GreenOps) | Console B2B multi-org : flex, REC, équipe, alertes consolidées, **facturation Stripe** |
+| **Action** | [GreenOps](https://github.com/ChristopheChollet/GreenOps) | Console B2B multi-org : flex, REC, équipe, alertes consolidées, onboarding premier login, **facturation Stripe** |
 
 **Parcours démo** : [GridPulse](https://grid-pulse-steel.vercel.app) → [FlexSlot](https://flex-slot.vercel.app) → [GreenOps](https://green-ops-five.vercel.app)  
+**Démo vidéo** : [90 s sur YouTube](https://youtu.be/lF4IJCwgS3M) · [page Meridian](https://christophechollet.dev/meridian)  
 **Portfolio** : [christophechollet.dev](https://christophechollet.dev) · **LinkedIn** : [christophe-chollet-1988](https://www.linkedin.com/in/christophe-chollet-1988-/)
 
 ## Stack principale
@@ -24,6 +25,7 @@ Je conçois des **produits web orientés données** pour **l'énergie et le clim
 - **Web / SaaS** : Next.js, TypeScript, Tailwind, Supabase (Auth, Postgres, RLS), Vercel
 - **Data / API** : Python, FastAPI, pandas, pipelines d'ingestion, GitHub Actions, Railway
 - **Billing** : Stripe (Checkout, webhooks) — backend [VoltFlow](https://github.com/ChristopheChollet/VoltFlow), UI dans GreenOps `/billing`
+- **Qualité prod** : Playwright E2E (démos live), Sentry (front + API), page `/status` cross-services
 - **Complément formation** : Solidity, Hardhat (projet Alyra — non mis en avant portfolio)
 
 ## Formation
